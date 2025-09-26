@@ -12,7 +12,7 @@ namespace app1 { //package
     public partial class Form1 : Form { //Classe parziale su più file, che estende Form ovvero una gui
         private int contatore;
         public Form1() {  //costruttore
-            InitializeComponent(); //scene inizialize
+            InitializeComponent(); //scene inizialize 
             this.contatore = 0;
         }
 
